@@ -1,7 +1,7 @@
 # Nhóm 59: Tìm hiểu Apache Hadoop và viết ứng dụng demo
 - Tô Thanh Phong            19110050
 - Tôn Thiên Thạch           19110455
-1. Tạo Cluster trên AWS EMR
+## Tạo Cluster trên AWS EMR
 * Chọn dịch vụ Amazon EMR > chọn Create cluster
 ![image](https://user-images.githubusercontent.com/69313033/208219009-99304f6f-41f5-4baa-97b0-45f2a0fc37a4.png)
 * Chọn các thành phần cần sử dụng trong hệ thống Hadoop > Next
@@ -23,3 +23,4 @@
 ![image](https://user-images.githubusercontent.com/69313033/208220895-ee308242-8c34-4a23-8fa3-e88595c355a3.png)
 * Màn hình Console giúp tương tác với máy ảo master và chạy các ứng dụng phân tán 
 ![image](https://user-images.githubusercontent.com/69313033/208221032-7ef8550b-02dc-4ab9-aa45-14696fd19780.png)
+## Demo
