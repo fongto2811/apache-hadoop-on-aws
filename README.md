@@ -24,3 +24,4 @@
 * Màn hình Console giúp tương tác với máy ảo master và chạy các ứng dụng phân tán 
 ![image](https://user-images.githubusercontent.com/69313033/208221032-7ef8550b-02dc-4ab9-aa45-14696fd19780.png)
 ## Demo
+![Video demo và giải thích](https://drive.google.com/file/d/1XQEWv2yn9DYazUOA_4t-mO-7rQmX4q6Y/view?usp=sharing)
